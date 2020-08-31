@@ -4,7 +4,7 @@ lvgl针对SigmaStar硬件平台的一份移植。
 ## Quick Start
 
 ```sh
-git clone https://xxxx.xx/lv_port_sstar
+git clone https://github.com/MissYourSmile/lv_port_sstar.git
 cd lv_port_sstar
 git submodule init && git submodule update
 make
